@@ -1,6 +1,6 @@
-#Silly Joke Generator
+# Silly Joke Generator
 
-##Thanks to MDN Web Docs
 
-#Link - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
-
+ ## All thanks to MDN Web docs 
+ 
+ link - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator
